@@ -1,100 +1,97 @@
-<h1 align="center">Hi 👋, I'm Raja Abdul Rafay</h1>
-<h3 align="center">AI / Machine Learning Engineer | Data Scientist | Data Analyst</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+ML;LSTM+%7C+CNN+%7C+RNN+%7C+NLP+%7C+Computer+Vision;Turning+Data+into+Decisions;Fresh+BS+AI+Graduate+%7C+Open+to+Work" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F80ED&height=220&section=header&text=Raja%20Abdul%20Rafay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/Rajarafay04" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajaabdulRajarafay0485@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rajarafay04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+with+AI+%26+ML;LSTM+%7C+CNN+%7C+RNN+%7C+NLP+%7C+Computer+Vision;Turning+Raw+Data+into+Real+Decisions;Fresh+BS+AI+Graduate+%7C+Open+to+Work+2026" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://linkedin.com/in/rafay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rajaabdulrafay85@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Rajarafay04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-- 🎓 Fresh **BS Artificial Intelligence** graduate from **Dawood University of Engineering & Technology** (2022–2026)
-- 🤖 Built an end-to-end **AI-Powered Forex Trading Bot** using LSTM neural networks + MetaTrader 5 API
-- 🧠 Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision
-- 📊 Skilled in turning raw data into actionable insights through EDA, feature engineering & visualization
-- 🌱 Currently exploring advanced deployment techniques for ML models (Flask / FastAPI)
-- 💬 Ask me about: LSTM, CNN, RNN, NLP pipelines, Forex/Time-Series forecasting
-- ⚡ Fun fact: I ran the Karachi Marathon *and* volunteered to help organize it!
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Rajarafay04&color=2F80ED&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Rajarafay04?style=for-the-badge&color=58A6FF&label=FOLLOWERS)
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=2&width=100%" />
 
-### 🌟 Featured Projects
+## 🧠 About Me
 
-#### 🔹 [AI-Powered Forex Trading Bot](https://github.com/Rajarafay04/forex-trading-bot)
-Automated trading system integrated with MetaTrader 5, using an LSTM model to forecast currency movements from OHLC time-series data. Includes a full data pipeline (RSI, MACD, Moving Averages) and automated buy/sell/hold logic with stop-loss/take-profit risk management.
-`Python` `TensorFlow/Keras` `MetaTrader5 API` `Pandas` `NumPy`
+```yaml
+name: "Raja Abdul Rafay"
+role: ["AI/ML Engineer", "Data Scientist", "Data Analyst"]
+education: "BS Artificial Intelligence @ Dawood University of Engineering & Technology (2022 - 2026)"
+current_focus: "Deep Learning, NLP, Model Deployment (Flask / FastAPI)"
+highlight_project: "AI-Powered Forex Trading Bot — LSTM + MetaTrader5 API"
+fun_fact: "Ran the Karachi Marathon *and* helped organize it 🏃‍♂️"
+status: "🟢 Open to AI/ML Engineer & Data Scientist opportunities"
+```
 
-#### 🔹 [Customer Churn Prediction System](https://github.com/Rajarafay04/customer-churn-prediction)
-ML pipeline predicting customer churn using Logistic Regression, Random Forest & XGBoost, with full EDA and feature engineering on usage/demographic data.
-`Python` `Scikit-learn` `Pandas` `Seaborn`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=2&width=100%" />
 
-#### 🔹 [Sentiment Analysis on Social Media Data](https://github.com/Rajarafay04/sentiment-analysis-nlp)
-NLP pipeline classifying social posts/reviews into positive, negative & neutral sentiment using TF-IDF/embeddings, comparing Logistic Regression vs LSTM classifiers.
-`Python` `NLTK/spaCy` `Scikit-learn` `TensorFlow/Keras`
+## ⚙️ Tech Arsenal
 
-> 💡 *Update the links above once each project has its own repo.*
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,fastapi,mysql,git,vscode,html,css&theme=dark" />
 
-### 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajarafay04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarafay04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK%20%2F%20spaCy-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajarafay04&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajarafay04&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=2&width=100%" />
 
----
+## 📊 Dashboard
 
-### 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rajarafay04/Rajarafay04/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajarafay04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarafay04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
----
+<br/>
 
-<p align="center">
-  <i>🎓 Graduating 2026 | Open to AI/ML Engineer & Data Scientist roles | Let's connect!</i>
-</p>
+<img width="100%" src="https://streak-stats.demolab.com?user=Rajarafay04&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajarafay04&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajarafay04&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=2&width=100%" />
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rajarafay04/Rajarafay04/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=2&width=100%" />
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Intelligent Together
+
+<i>🎓 Graduating 2026 &nbsp;|&nbsp; Open to AI/ML Engineer & Data Scientist roles</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0F2027&height=100&section=footer" width="100%" />
+
+</div>
