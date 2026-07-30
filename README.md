@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rafay" target="_blank">
+  <a href="https://linkedin.com/in/Rajarafay04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rajaabdulrafay85@gmail.com">
+  <a href="mailto:rajaabdulRajarafay0485@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rafay" target="_blank">
+  <a href="https://github.com/Rajarafay04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -54,15 +54,15 @@
 
 ### 🌟 Featured Projects
 
-#### 🔹 [AI-Powered Forex Trading Bot](https://github.com/rafay/forex-trading-bot)
+#### 🔹 [AI-Powered Forex Trading Bot](https://github.com/Rajarafay04/forex-trading-bot)
 Automated trading system integrated with MetaTrader 5, using an LSTM model to forecast currency movements from OHLC time-series data. Includes a full data pipeline (RSI, MACD, Moving Averages) and automated buy/sell/hold logic with stop-loss/take-profit risk management.
 `Python` `TensorFlow/Keras` `MetaTrader5 API` `Pandas` `NumPy`
 
-#### 🔹 [Customer Churn Prediction System](https://github.com/rafay/customer-churn-prediction)
+#### 🔹 [Customer Churn Prediction System](https://github.com/Rajarafay04/customer-churn-prediction)
 ML pipeline predicting customer churn using Logistic Regression, Random Forest & XGBoost, with full EDA and feature engineering on usage/demographic data.
 `Python` `Scikit-learn` `Pandas` `Seaborn`
 
-#### 🔹 [Sentiment Analysis on Social Media Data](https://github.com/rafay/sentiment-analysis-nlp)
+#### 🔹 [Sentiment Analysis on Social Media Data](https://github.com/Rajarafay04/sentiment-analysis-nlp)
 NLP pipeline classifying social posts/reviews into positive, negative & neutral sentiment using TF-IDF/embeddings, comparing Logistic Regression vs LSTM classifiers.
 `Python` `NLTK/spaCy` `Scikit-learn` `TensorFlow/Keras`
 
@@ -73,16 +73,16 @@ NLP pipeline classifying social posts/reviews into positive, negative & neutral 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajarafay04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarafay04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafay&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajarafay04&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafay&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajarafay04&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ NLP pipeline classifying social posts/reviews into positive, negative & neutral 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafay/rafay/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Rajarafay04/Rajarafay04/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
